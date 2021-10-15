@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bogoga_app/static/css/main.015ad6ff.chunk.css",
+    "main.js": "/bogoga_app/static/js/main.b85409de.chunk.js",
+    "main.js.map": "/bogoga_app/static/js/main.b85409de.chunk.js.map",
+    "runtime-main.js": "/bogoga_app/static/js/runtime-main.fe610b77.js",
+    "runtime-main.js.map": "/bogoga_app/static/js/runtime-main.fe610b77.js.map",
+    "static/js/2.ebc69c58.chunk.js": "/bogoga_app/static/js/2.ebc69c58.chunk.js",
+    "static/js/2.ebc69c58.chunk.js.map": "/bogoga_app/static/js/2.ebc69c58.chunk.js.map",
+    "index.html": "/bogoga_app/index.html",
+    "static/css/main.015ad6ff.chunk.css.map": "/bogoga_app/static/css/main.015ad6ff.chunk.css.map",
+    "static/js/2.ebc69c58.chunk.js.LICENSE.txt": "/bogoga_app/static/js/2.ebc69c58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe610b77.js",
+    "static/js/2.ebc69c58.chunk.js",
+    "static/css/main.015ad6ff.chunk.css",
+    "static/js/main.b85409de.chunk.js"
+  ]
+}
