@@ -6,13 +6,13 @@ import "./Home.css";
 class Home extends React.Component {
   state = {
     isLoading: true,
-    movies: [],
+    movies: []
   };
   getMovies = async () => {
     const {
       data: {
-        data: { movies },
-      },
+        data: { movies }
+      }
     } = await axios.get(
       "https://yts-proxy.now.sh/list_movies.json?sort_by=rating"
     );
@@ -48,4 +48,5 @@ class Home extends React.Component {
     );
   }
 }
+
 export default Home;
