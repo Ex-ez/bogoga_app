@@ -1,3 +1,2 @@
 # Bogoga App
 
-React JS
